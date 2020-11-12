@@ -1,0 +1,26 @@
+{
+  "name": "applifashion-cypress",
+  "version": "1.0.0",
+  "description": "Applitools Hackathon November 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearlberry/applifashion-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearlberry/applifashion-cypress/issues"
+  },
+  "homepage": "https://github.com/pearlberry/applifashion-cypress#readme",
+  "dependencies": {
+    "cypress": "^5.6.0"
+  },
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.15.5"
+  }
+}
