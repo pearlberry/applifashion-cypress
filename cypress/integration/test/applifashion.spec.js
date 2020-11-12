@@ -12,7 +12,6 @@ const browserSettings = [
   }
 ];
 
-//const browserSettings = { width: 1200, height: 800, name: "chrome" };
 const appName = "AppliFashion";
 const batchName = "Testing Lifecycle";
 
